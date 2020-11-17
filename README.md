@@ -9,7 +9,7 @@ Automatizador de procesos de SqlMap en su ultima versión
  
 [02] Instalar dependencias
 
- bash +x install.sh
+ bash install.sh
  
 [03] Ejecutar Script
 
